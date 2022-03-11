@@ -1,0 +1,251 @@
+body{
+    background-color: rgba(135, 104, 249, 1);
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.background-container{
+    background-color: rgba(229, 229, 229, .85);
+    backdrop-filter: blur(10px);
+    margin: 0;
+    padding: 1rem 5rem 3rem;
+}
+}
+
+h2{
+    margin-top: 0;
+}
+
+/* navbar */
+#navbar-section{
+    padding-bottom: 3rem;
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-item{
+    margin-left: 4rem;
+    font-weight: normal;
+    font-size: 1.2rem;
+    
+}
+
+.navbar-brand{
+    color:  rgba(60, 201, 167, 1) !important;
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.nav-btn{
+    background-color: rgba(135, 104, 249, 1) !important;
+    border-color: transparent;
+    
+}
+
+.nav-link{
+    color: black !important;
+}
+
+/* title */
+#main-content{
+    display: flex;
+    flex-direction: row;
+    font-size: .95rem;
+    line-height: 2;
+    padding-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 5rem;
+}
+.blank-sec{
+    width: 100%;
+    height: 450px;
+    background-color: #fff;
+    border-radius: 30px;
+}
+.content{
+    margin-right: 7rem;
+    margin-top: 3rem;
+}
+#main-content span{
+    color: rgba(135, 104, 249, 1);
+}
+
+#main-content h1{
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.title-btn{
+    margin-top: 2rem;
+    background-color: rgba(60, 201, 167, 1) !important;
+    border-color: transparent;
+}
+
+/* core-values */
+#core-values{
+    background-color: white;
+    border-radius: 30px;
+    padding: 3rem 5rem 3rem;
+    box-sizing: border-box;
+}
+
+#core-values h1{
+    text-align: center;
+    margin-bottom: 5rem;
+    font-size: 50px;
+    font-weight: 600;
+}
+#core-values span{
+    color:rgba(60, 201, 167, 1) ;
+    
+}
+
+.color2{
+    background-color: rgba(60, 201, 167, 1);
+}
+
+.color1{
+    background-color: rgba(135, 104, 249, 1);
+}
+
+i{
+    
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-bottom: 2rem;
+}
+
+
+#core-values .fas{
+    text-align: center;
+    padding-top: 1.3rem;
+    color: white;
+}
+
+#core-values p{
+    font-size: .8rem;
+    line-height: 1.5;
+    color: #808080;
+    margin-bottom: 2rem;
+}
+
+#core-values h4{
+    font-weight: 600;
+    font-size: 23px;
+}
+
+/* brands */
+#brand{
+    margin-top: 5rem;
+    text-align: center;
+}
+#brand h2{
+    font-weight: 600;
+    font-size: 40px;
+    margin-bottom: 3rem;
+}
+
+#brand span{
+    color: rgba(135, 104, 249, 1);
+}
+.brands{
+    width: 150px;
+    height: 150px;
+    margin-left: 15rem;
+    opacity: .5;
+    padding-bottom: 1rem;
+}
+/* get in touch */
+#get-in-touch{
+    margin-top: 5rem;
+}
+.get-in-touch{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    padding: 3rem;
+    border-radius: 30px;  
+}
+
+.contact{
+    margin-right: 8rem;
+}
+.contact p{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgba(135, 104, 249, 1);
+}
+
+.contact h2{
+    font-weight: 600;
+    font-size: 37px;
+}
+.button{
+    width: fit-content;
+    box-sizing: border-box;
+    padding: 3rem 0 0 3rem;
+}
+
+.button .btn{
+    background-color: rgba(60, 201, 167, 1);
+    border-color: transparent;
+}
+
+/* footer */
+#footer{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-title{
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: 'Merriweather', serif;
+    color: rgba(60, 201, 167, 1);
+    
+}
+#footer div{
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
+
+#footer div h4{
+    font-weight: 550;
+    font-size: 25px;
+}
+
+#footer div p{
+    font-weight: 400;
+    font-size: 14px;
+    padding: .5rem 0 0;
+    color: #808080;
+}
+
+/* copyright */
+#copyright a{
+    color:rgba(135, 104, 249, 1) ;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+#copyright{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5rem;
+}
+
+#copyright .terms-of-service{
+    margin-left: 5rem;
+}
+
+#copyright .privacy-policy{
+    margin-left: 50rem;
+}

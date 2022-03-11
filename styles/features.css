@@ -1,0 +1,142 @@
+/* introduction */
+#introduction {
+  text-align: center;
+}
+
+#introduction h1 {
+  font-weight: 600;
+  font-size: 60px;
+  margin-bottom: 1rem;
+}
+
+.heading {
+  margin-bottom: 3rem;
+}
+
+#introduction span {
+  color: rgba(135, 104, 249, 1);
+}
+
+#introduction form {
+  width: 35rem;
+  margin: auto;
+  margin-bottom: 1.5rem;
+}
+
+#introduction form .btn {
+  width: 8rem;
+  background-color: rgba(60, 201, 167, 1);
+  border: transparent;
+}
+
+#introduction p {
+  font-size: 16px;
+}
+
+#introduction a {
+  color: rgba(60, 201, 167, 1);
+  text-decoration: none;
+}
+
+#introduction input,
+button {
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+/* feature-content */
+#features-content {
+  margin-top: 7rem;
+}
+
+.features-top-heading h2 {
+  font-weight: 600;
+  font-size: 38px;
+  text-align: center;
+  line-height: 2;
+}
+
+.features-top-img {
+  margin-left: 27rem;
+  margin-top: 5rem;
+  width: 512px;
+  height: 512px;
+  position: relative;
+}
+.features-top-img-back {
+  background-color: rgba(135, 104, 249, 0.8);
+  width: 570px;
+  height: 420px;
+  position: absolute;
+  transform: rotate(-30deg);
+  left: 31.5rem;
+  top: 58rem;
+}
+
+.features-power-in-hand {
+  display: flex;
+  flex-direction: row;
+  margin-top: 12rem;
+}
+
+.content1 {
+  margin-right: 7rem;
+  display: inline-block;
+  width: 50rem;
+}
+
+.content-para {
+  color: rgba(60, 201, 167, 1);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.content-heading {
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.content-button {
+  background-color: rgba(60, 201, 167, 1);
+  border: transparent;
+  font-size: 18px;
+  padding: 1rem 2rem;
+}
+
+.content-2 {
+  margin-left: 7rem;
+  display: inline-block;
+  width: 50rem;
+}
+
+.content-img {
+  width: 25rem;
+  position: relative;
+  z-index: 1;
+}
+
+.last-content {
+  margin-bottom: 10rem;
+}
+
+.content-background {
+  width: 30rem;
+  height: 20rem;
+  display: inline-block;
+  position: absolute;
+  transform: rotate(30deg);
+  background-color: rgba(135, 104, 249, 0.8);
+  left: 1.8rem;
+  top: 138.5rem;
+}
+.content1-img {
+  width: 30rem;
+  height: 20rem;
+  display: inline-block;
+  position: absolute;
+  transform: rotate(-30deg);
+  background-color: rgba(135, 104, 249, 0.8);
+  right: 3.5rem;
+  top: 100.7rem;
+}

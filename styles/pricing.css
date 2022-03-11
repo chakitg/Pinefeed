@@ -1,0 +1,163 @@
+/* pricing section */
+.pricing-section {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 30px;
+  padding: 5rem 3rem;
+  text-align: center;
+  margin-top: 7rem;
+}
+.card {
+  border-radius: 30px;
+}
+
+.card-header {
+  font-weight: 600;
+  font-size: 30px;
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  border-bottom: none;
+  margin-top: 1rem;
+  width: 350px;
+  margin-left: 1.3rem;
+}
+
+.card-text {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: 70px;
+}
+
+.card-btn {
+  padding: 0.5rem 2rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.mon-year1 {
+  font-size: 20px;
+  background-color: white;
+  color: black;
+  border: solid grey;
+  border-right: none;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+.mon-year2 {
+  background-color: rgba(135, 104, 249, 1);
+  font-size: 20px;
+  border: solid gray;
+  border-left: none;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+/* comparison section */
+
+#comparison h2 {
+  font-size: 45px;
+  font-weight: 600;
+  margin-top: 7rem;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+.comparison-outer {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 40px;
+  padding: 5rem ;
+}
+
+#comparison h2 span {
+  color: rgba(60, 201, 167, 1);
+}
+.comparison-section1 {
+  display: flex;
+  flex-direction: row;
+}
+.comparison-section1 .grande,
+.venti {
+  margin-left: 12rem;
+}
+.comparison-heading {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color:rgba(135, 104, 249, 1) ;
+}
+
+#comparison i {
+  color: rgba(60, 201, 167, 1) !important ;
+  margin-bottom: 0;
+}
+.comparison-section2 {
+  display: flex;
+  flex-direction: row;
+}
+.comparison-section3 {
+  display: flex;
+  flex-direction: row;
+}
+
+.comparison-section1 .tall,.grande,.venti p{
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.features-div p{
+    font-size: 24px;
+    display: inline-block;
+    box-sizing: border-box;
+    font-weight: 500;
+    width: 20rem;
+}
+
+.fas{
+    font-size: 1rem;
+    width: 30px;
+    height: 30px;
+    margin-top: .5rem;
+}
+
+.comparison-section2{
+    margin-top: 3rem;
+}
+
+.comparison-section2 .grande,
+.venti {
+  margin-left: 15rem;
+}
+
+.comparison-section3 .grande,
+.venti {
+  margin-left: 15rem;
+  text-align: center;
+}
+
+/* faq section */
+
+.faq-ques{
+    background-color: white;
+    border-radius: 30px !important;
+    padding: 2rem 3rem 1rem;
+}
+
+.faq-ques p{
+    color:rgba(135, 104, 249, 1) ;
+    font-size: 20px;
+}
+.faq-heading{
+    font-size: 45px;
+    font-weight: 600;
+    margin-top: 7rem;
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+#faq i{
+    position: absolute;
+    right: 7rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+

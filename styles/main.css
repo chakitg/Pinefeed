@@ -1,0 +1,175 @@
+.card-button{
+    background-color: rgba(60, 201, 167, 1) !important; 
+    border: none;
+    color: white;
+  }
+  
+  .ggl-play{
+    box-sizing: border-box;
+    width:13rem;
+    padding-top: 0;
+  }
+
+
+/* images */
+.social-icon{
+    width: 60px;
+    height: 60px;
+    position: relative;
+}
+
+.feeds{
+    width: 300px;
+    position: relative;
+}
+
+
+  .main-heading{
+      text-align: center;
+      font-size: 50px;
+      font-weight: 700;
+      margin-top: 20rem;
+      margin-bottom: 10rem;
+  }
+
+  .main_content{
+      background-color:rgba(255, 255, 255, .5);
+padding: 5rem 3rem 3rem;
+border-radius: 30px;
+  }
+
+  .social-icon1{
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      position: relative;
+  }
+.social{
+    background-color: rgba(255, 255, 255, .8);
+    box-sizing: border-box;
+    padding: 2rem 1rem 1rem;
+    width: 15rem;
+    border-radius: 30px;
+    text-align: center;
+    position: relative;
+}
+
+.social p{
+    font-size: 10px;
+}
+
+.social-content{
+    box-sizing: border-box;
+    width: 40rem;
+    position: relative;
+    left: 20rem;
+    bottom: 8rem;
+    line-height: 2;
+}
+
+.social-content h3{
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.social-content p{
+    margin-bottom: 0;
+}
+
+.yt{
+    bottom: 10rem;
+}
+
+.insta{
+    left: 18rem;
+    bottom: 10rem;
+}
+
+.fb{
+    bottom: 10rem;
+}
+
+.div2 .social-content{
+    position: relative;
+    left: 1rem;
+    bottom: 3rem;
+}
+
+.one{
+    width: 10rem;
+    padding-top: 1rem;
+    left: 2rem;
+    bottom: 3rem;
+}
+
+.two{
+    width: 10rem;
+    padding-top: 1rem;
+    left: 10rem;
+    bottom: 4rem;
+    z-index: 1;
+}
+.three{
+    width: 10rem;
+    padding-top: 1rem;
+    left: 2rem;
+    bottom: 5rem;
+}
+
+.four{
+    width: 10rem;
+    padding-top: 1rem;
+    left: 18rem;
+    bottom: 17.5rem;
+    z-index: 2;
+}
+
+.five{
+    width: 10rem;
+    padding-top: 1rem;
+    left: 18rem;
+    bottom: 14.5rem;
+    z-index: 2;
+}
+
+.div2 .social h5{
+    color:rgba(135, 104, 249, 1);
+    margin-top: 0;
+}
+
+.div2 .social p{
+    margin-bottom: 0;
+}
+
+.div3 .social-content{
+    position: relative;
+    top: 2rem;
+}
+
+.div3 .yt{
+    bottom: 5rem;
+}
+
+.div3 .insta{
+    bottom: 5rem;
+}
+
+.div3 .fb{
+    bottom: 5rem;
+}
+
+.last-section-content{
+    box-sizing: border-box;
+    width: 35rem;
+    margin-left: 5rem;
+}
+
+.ggl-play p{
+    margin-bottom: 0;
+}
+
+.last-section-content-img{
+    position: relative;
+    left: 7rem;
+}
